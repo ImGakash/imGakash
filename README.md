@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=ImGAkash&icon=0&color=0" alt="Profile Views">
-  </a>
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ImGAkash&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
+  </div>
 </div>
